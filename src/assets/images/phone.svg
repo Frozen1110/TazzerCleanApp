@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 25 25">
+  <defs>
+    <clipPath id="clip-phone">
+      <rect width="25" height="25"/>
+    </clipPath>
+  </defs>
+  <g id="phone" clip-path="url(#clip-phone)">
+    <path id="phone_1_" data-name="phone (1)" d="M24.755,18.987V22.4a2.277,2.277,0,0,1-2.482,2.277,22.531,22.531,0,0,1-9.825-3.5,22.2,22.2,0,0,1-6.831-6.831,22.531,22.531,0,0,1-3.5-9.871A2.277,2.277,0,0,1,4.387,2H7.8a2.277,2.277,0,0,1,2.277,1.958,14.619,14.619,0,0,0,.8,3.2,2.277,2.277,0,0,1-.512,2.4L8.918,11.006a18.216,18.216,0,0,0,6.831,6.831L17.2,16.391a2.277,2.277,0,0,1,2.4-.512,14.619,14.619,0,0,0,3.2.8,2.277,2.277,0,0,1,1.958,2.311Z" transform="translate(-0.934 -0.844)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 25 25">
+  <defs>
+    <clipPath id="clip-calendar">
+      <rect width="25" height="25"/>
+    </clipPath>
+  </defs>
+  <g id="calendar" clip-path="url(#clip-calendar)">
+    <g id="calendar-2" data-name="calendar" transform="translate(-0.215 -1.364)">
+      <rect id="Rectangle_145" data-name="Rectangle 145" width="20" height="20" rx="2" transform="translate(3.215 4.364)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <line id="Line_20" data-name="Line 20" y2="5" transform="translate(18.215 2.364)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <line id="Line_21" data-name="Line 21" y2="5" transform="translate(8.215 2.364)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <line id="Line_22" data-name="Line 22" x2="20" transform="translate(3.215 11.364)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>
