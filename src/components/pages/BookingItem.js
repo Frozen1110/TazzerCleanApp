@@ -1,16 +1,13 @@
-import React, { useState } from 'react';
-import { View, StyleSheet, TouchableOpacity, Dimensions, ScrollView, Image } from 'react-native';
+import React from 'react';
+import { View, StyleSheet, TouchableOpacity, Image } from 'react-native';
 import { Theme } from '~/styles';
 
-import { AppText, Button, DashedLine } from '~/components';
-import { withTheme } from 'react-native-elements';
-import App from '../../../App';
+import { AppText } from '~/components';
 import { NavigationService } from '../../core/services';
 
 export const BookingItem = ({
     image,
     title,
-    description,
     date,
     schedule,
     time

@@ -1,9 +1,7 @@
-import React, { useState } from 'react';
-import { View, StyleSheet, TouchableOpacity, Dimensions, ScrollView, Image } from 'react-native';
-import { Theme } from '~/styles';
+import React  from 'react';
+import { View, StyleSheet } from 'react-native';
 
-import { AppText, Button, DashedLine } from '~/components';
-import { withTheme } from 'react-native-elements';
+import { AppText } from '~/components';
 
 import Secure1SVG from '~/assets/images/secure_1.svg';
 import Secure2SVG from '~/assets/images/secure_2.svg';

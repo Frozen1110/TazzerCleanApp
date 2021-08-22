@@ -1,9 +1,7 @@
-import React, { useState } from 'react';
-import { View, StyleSheet, TouchableOpacity, Dimensions } from 'react-native';
-import { Theme } from '~/styles';
+import React from 'react';
+import { View, StyleSheet, TouchableOpacity, } from 'react-native';
 
 import { AppText, Button, DashedLine } from '~/components';
-import { withTheme } from 'react-native-elements';
 
 export const CouponItem = ({
     backgroundColor = '#1fbd50',

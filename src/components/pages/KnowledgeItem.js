@@ -1,9 +1,7 @@
-import React, { useState } from 'react';
-import { View, StyleSheet, TouchableOpacity, Dimensions, ScrollView } from 'react-native';
-import { Theme } from '~/styles';
+import React from 'react';
+import { View, StyleSheet } from 'react-native';
 
-import { AppText, Button, DashedLine } from '~/components';
-import { withTheme } from 'react-native-elements';
+import { AppText, DashedLine } from '~/components';
 
 export const KnowledgeItem = ({
     image = '#1fbd50',
